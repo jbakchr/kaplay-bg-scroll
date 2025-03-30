@@ -1,0 +1,25 @@
+{
+  "name": "kaplay-bg-scroll",
+  "version": "0.1.0",
+  "description": "A package to add background scrolling to a KAPLAY game",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbakchr/kaplay-bg-scroll.git"
+  },
+  "keywords": [
+    "kaplay",
+    "background",
+    "scrolling",
+    "background-scrolling"
+  ],
+  "author": "Jonas Bak Phillipson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbakchr/kaplay-bg-scroll/issues"
+  },
+  "homepage": "https://github.com/jbakchr/kaplay-bg-scroll#readme",
+  "dependencies": {
+    "kaplay": "^3001.0.10"
+  }
+}
