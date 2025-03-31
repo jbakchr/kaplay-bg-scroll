@@ -2,6 +2,9 @@
 
 Easily add a smooth, customizable left-scrolling background to your KAPLAY game.
 
+https://github.com/user-attachments/assets/512395dc-4ae2-4391-a0e8-c5a7db394323
+
+
 ## Installation
 
 Install the package via npm:
