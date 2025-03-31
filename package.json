@@ -1,6 +1,6 @@
 {
   "name": "kaplay-bg-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to add a scrolling background to a KAPLAY game",
   "main": "index.js",
   "repository": {
